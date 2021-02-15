@@ -1,0 +1,75 @@
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.exe.config
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.exe
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.pdb
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\MainWindow.g.cs
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\App.g.cs
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.cache
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.lref
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\MainWindow.baml
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.g.resources
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.Properties.Resources.resources
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.csproj.GenerateResource.Cache
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.exe
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.pdb
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\Card.g.cs
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\Card.baml
+C:\Users\ety\Documents\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.csprojResolveAssemblyReference.cache
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\homework_4.exe.config
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.exe
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.pdb
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\homework_4.exe
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\homework_4.pdb
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\mscorlib.dll
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\System.Net.Http.dll
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\he\mscorlib.resources.dll
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\normidna.nlp
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\normnfc.nlp
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\normnfd.nlp
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\normnfkc.nlp
+D:\Movies\homework_4(2)\homework_4\homework_4\bin\Debug\normnfkd.nlp
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.csprojResolveAssemblyReference.cache
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\Card.g.cs
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\MainWindow.g.cs
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\App.g.cs
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.cache
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.lref
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\Card.baml
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\MainWindow.baml
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.g.resources
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.Properties.Resources.resources
+D:\Movies\homework_4(2)\homework_4\homework_4\obj\Debug\homework_4.csproj.GenerateResource.Cache
+C:\Users\ety\Desktop\homework_4\homework_4\bin\Debug\homework_4.exe.config
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.exe
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.pdb
+C:\Users\ety\Desktop\homework_4\homework_4\bin\Debug\homework_4.exe
+C:\Users\ety\Desktop\homework_4\homework_4\bin\Debug\homework_4.pdb
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.csprojResolveAssemblyReference.cache
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\Card.g.cs
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\MainWindow.g.cs
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\App.g.cs
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.cache
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.lref
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\Card.baml
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\MainWindow.baml
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.g.resources
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.Properties.Resources.resources
+C:\Users\ety\Desktop\homework_4\homework_4\obj\Debug\homework_4.csproj.GenerateResource.Cache
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.exe.config
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.exe
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.pdb
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.exe
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.pdb
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\Card.g.cs
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\MainWindow.g.cs
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\App.g.cs
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.cache
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4_MarkupCompile.lref
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\Card.baml
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\MainWindow.baml
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.g.resources
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.Properties.Resources.resources
+C:\Users\rotem\Documents\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.csproj.GenerateResource.Cache
+C:\Users\rotem\Desktop\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\bin\Debug\homework_4.exe.config
+C:\Users\rotem\Desktop\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.exe
+C:\Users\rotem\Desktop\לימודים\Visual Studio 2015\Projects\מונחה עצמים\homework_4\homework_4\obj\Debug\homework_4.pdb
